@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/lasote/conan-libcurl.svg)](https://travis-ci.org/lasote/conan-libcurl)
-
-
 # conan-goinject
 
 [Conan.io](https://conan.io) package for [go lib inject library](https://github.com/codegangsta/inject) 
