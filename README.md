@@ -1,8 +1,8 @@
-# conan-goinject
+# Conan go.inject package
 
 [Conan.io](https://conan.io) package for [go lib inject library](https://github.com/codegangsta/inject) 
 
-The packages generated with this **conanfile** can be found in [conan.io](https://conan.io/source/inject/1.0/lasote/stable).
+The packages generated with this **conanfile** can be found in [conan.io](https://conan.io/source/go-inject/1.0/lasote/stable).
 
 ## How to use
 

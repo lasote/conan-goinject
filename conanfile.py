@@ -2,7 +2,7 @@ from conans import ConanFile
 
 
 class InjectConan(ConanFile):
-    name = "inject"
+    name = "go-inject"
     version = "1.0"
 
     def source(self):
